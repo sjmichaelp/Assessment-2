@@ -1,0 +1,32 @@
+.slider{
+    width:70px;
+}
+.buttons{
+    display:inline-block;
+}
+#Number{
+    background-color:Black;
+    color: white;
+}
+#Random{
+    background-color:pink;
+}
+#add{
+    background-color:black;
+    color:white;
+}
+#buttons{
+    position:relative;
+}
+#controls{
+    position:relative;
+    
+}
+.newitems {
+  width:auto;
+  height:auto;
+    position:absolute;
+  left:0;
+    right:0;
+  margin:auto;
+}
